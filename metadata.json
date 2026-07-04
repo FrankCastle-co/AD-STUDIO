@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Créateur de Sites & Menus Digitaux",
+  "description": "Portfolio professionnel pour un créateur de sites internet et de menus QR codes interactifs pour pizzerias, cafétérias et restaurants. Inclus un simulateur de menu interactif et un calculateur d'impact financier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
